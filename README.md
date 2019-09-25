@@ -4,4 +4,4 @@ Please see explanation files for details on each problem
 
 Execute python file:
 
- python problem_<number>.py
+ python problem_(number).py
